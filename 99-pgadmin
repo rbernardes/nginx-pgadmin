@@ -1,0 +1,9 @@
+server {
+        listen 80;
+        server_name yourhostname;
+        location / {
+#    auth_basic           "Login required";
+#    auth_basic_user_file conf/htpasswd;
+    proxy_pass http://localhost:5050;
+  }
+}
