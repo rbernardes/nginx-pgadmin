@@ -1,6 +1,6 @@
 
 # Ubuntu 18.04 + nginx + pgadmin4 (server mode + reverse proxy)
-![pgadmin](https://github.com/rbernardes/nginx-modules/blob/master/nginx_logo.png?raw=true)
+![pgadmin](https://github.com/rbernardes/nginx-pgadmin/blob/master/pgadmin.png?raw=true)
 
 ### Install required packages:
 ```
